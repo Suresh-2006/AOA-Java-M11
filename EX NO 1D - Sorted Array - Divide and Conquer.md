@@ -28,8 +28,8 @@ If (m + n) is odd, skip (m + n)/2 elements, then take the next smallest element 
 ```
 /*
 Program to implement Reverse a String
-Developed by: DHINESH R
-Register Number:  212223220019
+Developed by: SURESH S
+Register Number:  212223040215
 
 */
 
